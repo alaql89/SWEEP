@@ -28,7 +28,7 @@ WARNING: do not rename the provided folders.
 Running the following command will start the SWEEP attack:
 $ ./src/sweep [margin]
 
-Margin is an optional argument that controls the allowed margin between features. The value should be between 0 and 1, but going beyond 0.1 will reduce the attack accuracy (please refer to the paper for more information. The following two examples show how to start the SWEEP attack, EXAMPLE 1 uses the default margin value (0.00), while EXAMPLE 2 uses a specific value.
+Margin is an optional argument that controls the allowed margin between features. The value should be between 0 and 1, but going beyond 0.1 will reduce the attack accuracy (please refer to the paper for more information). The following two examples show how to start the SWEEP attack, EXAMPLE 1 uses the default margin value (0.00), while EXAMPLE 2 uses a specific value (2%).
 
 EXAMPLE 1: $ ./src/sweep
 
