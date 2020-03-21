@@ -49,4 +49,4 @@ Please contact me if you have any questions/feedback: alaql89@ufl.edu
 
 If you use the tool, please refer to the original publication: 
 
-A. Alaql, D. Forte, S.Bhunia, "Sweep to the Secret: A Constant Propagation Attack on Logic Locking", IEEE Asian Hardware-Oriented Security and Trust (AsianHOST), December 2019
+A. Alaql, D. Forte and S. Bhunia, "Sweep to the Secret: A Constant Propagation Attack on Logic Locking," 2019 Asian Hardware Oriented Security and Trust Symposium (AsianHOST), Xi'an, China, 2019, pp. 1-6.
